@@ -2,7 +2,7 @@
 title:  "SD WAN"
 search: false
 categories: 
-  - Network
+  Network
 last_modified_at: 2020-04-06
 ---
 
