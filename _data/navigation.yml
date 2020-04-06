@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "블로그 방문하기"
+  - title: "1"
     url: https://devinlife.com/
-  - title: "윤동주"
-    url: /categories/윤동주/
-  - title: "Categories"
+  - title: "2"
+    url: /categories/2/
+  - title: "3"
     url: /categories/
-  - title: "Tags"
+  - title: "4"
     url: /tags/
-  - title: "About"
+  - title: "5"
     url: /about/
