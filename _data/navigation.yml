@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "1"
-    url: https://devinlife.com/
+    url: https://hayleyshim.github.io
   - title: "2"
-    url: /categories/2/
+    url: /categories/
   - title: "3"
     url: /categories/
   - title: "4"
-    url: /tags/
+    url: /categories/
   - title: "5"
-    url: /about/
+    url: /categories/
