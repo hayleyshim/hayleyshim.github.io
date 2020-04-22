@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "NW"
-    url: https://hayleyshim.github.io
+    url: /nw
   - title: "LINUX"
-    url: https://hayleyshim.github.io
+    url: /linux
   - title: "-"
     url: https://hayleyshim.github.io
   - title: "-"
