@@ -1,0 +1,4 @@
+$ tcpdump -i eth0 -w test.pcap
+
+https://www.tcpdump.org/#old-releases
+http://blog.naver.com/PostView.nhn?blogId=eleexpert&logNo=140099124066&parentCategoryNo=&categoryNo=66&viewDate=&isShowPopularPosts=false&from=postView
