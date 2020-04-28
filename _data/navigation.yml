@@ -5,6 +5,6 @@ main:
   - title: "LINUX"
     url: /linux/
   - title: "TroubleShooting"
-    url: https://hayleyshim.github.io
+    url: /ts/
   - title: "App"
     url: https://hayleyshim.github.io
