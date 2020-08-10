@@ -1,4 +1,3 @@
-
 ---
 title:  "Segmentation"
 permalink: /nw/segmentation/
