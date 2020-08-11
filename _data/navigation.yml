@@ -4,6 +4,8 @@ main:
     url: /nw/
   - title: "LINUX"
     url: /linux/
+  - title: "Cloud"
+    url: /cloud/
   - title: "TroubleShooting"
     url: /ts/
   - title: "App"
