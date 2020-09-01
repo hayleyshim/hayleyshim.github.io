@@ -1,6 +1,6 @@
 ---
-title:  "GARP"
-permalink: /nw/garp/
+title:  "Stack Trace"
+permalink: /linux/stacktrace/
 last_modified_at: 2020-08-31
 ---
 
