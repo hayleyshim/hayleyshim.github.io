@@ -1,10 +1,10 @@
 ---
-title: Raspberry-pi cluster
+title: Rasberry-pi cluster
 description: Implementation
 image: demo.jpg
 date: 2021-11-01
 ---
 
-raspberry-pi cluster
+Rasberry-pi cluster
 
 
