@@ -2,8 +2,8 @@ title: Tech Blog
 description: >-
   Make your ideas  <br>
   come true.
-url: "https://github.com/hayleyshim"
-github: https://github.com/hayleyshim
+url: https://github.com/hayleyshim"
+github: hayleyshim
 email: yhshim17@gmail.com
 google_analytics: <YOUR UA TOKEN>
 
@@ -11,7 +11,7 @@ exclude: [README.md, Gemfile, Gemfile.lock]
 
 comments:
   enabled: true
-  repo: ChemistryX/hyde-comments
+  repo:hayleyshim
   issue-term: pathname
   theme: github-light
 
