@@ -1,10 +1,10 @@
-title: Hyde
+title: Tech Blog
 description: >-
-  Build your own portfolio <br>
-  with Hyde.
+  Make your ideas  <br>
+  come true.
 url: "https://chemistryx.me"
-github: ChemistryX
-email: changeme@chemistryx.me
+github: https://github.com/hayleyshim
+email: yhshim17@gmail.com
 google_analytics: <YOUR UA TOKEN>
 
 exclude: [README.md, Gemfile, Gemfile.lock]
