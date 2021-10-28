@@ -2,7 +2,7 @@
 title: BakeryTycoon
 description: Implementation
 image: backery.jpg
-date: 2020-03-23
+date: 2020-04-17
 ---
 
 Bakery 경영시뮬레이션 게임
