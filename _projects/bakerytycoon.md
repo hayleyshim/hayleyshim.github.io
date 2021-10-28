@@ -1,7 +1,7 @@
 ---
 title: BakeryTycoon
 description: Implementation
-image: demo.jpg
+image: backery.jpg
 date: 2020- 03
 ---
 
