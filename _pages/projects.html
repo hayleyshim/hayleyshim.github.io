@@ -29,11 +29,7 @@ visible: true
       <span class="hyde post-date">{{ project.date | date: '%Y년 %-m월 %-d일' }}</span>
     </div>
   </div>
-  {% else %} {% include empty.html %} {% endfor %}
-</div>
-
-<div class="hyde posts">
-  {% assign sorted = site.projects | sort: 'date' | reverse %} {% for project in sorted %}
+  
   <div class="hyde post{% unless forloop.last %} divider{% endunless %}">
     <a href="{{ project.url }}">
       <div class="hyde post-thumbnail-wrapper">
@@ -56,5 +52,8 @@ visible: true
       <span class="hyde post-date">{{ project.date | date: '%Y년 %-m월 %-d일' }}</span>
     </div>
   </div>
+  
   {% else %} {% include empty.html %} {% endfor %}
 </div>
+
+
