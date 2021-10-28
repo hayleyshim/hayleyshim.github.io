@@ -1,7 +1,7 @@
 ---
 title:  "Segmentation"
-permalink: /nw/segmentation/
-last_modified_at: 2020-08-10
+tags: [demo]
+author: hayley
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title:  "DDNS Service"
-permalink: /nw/
-last_modified_at: 2020-11-19
+tags: [demo]
+author: hayley
 ---
 
 How to implement homeserver <br/>

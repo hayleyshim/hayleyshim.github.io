@@ -1,7 +1,7 @@
 ---
 title:  "Wireguard"
-permalink: /nw/
-last_modified_at: 2020-09-14
+tags: [demo]
+author: hayley
 ---
 
 [Wireguard](https://ziwon.github.io/post/wireguard/) <br/>
