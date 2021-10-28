@@ -1,7 +1,7 @@
 ---
 title: Data Analysis
 description: Implementation
-image: data.jpg
+image: data.png
 date: 2020-08-30
 ---
 
