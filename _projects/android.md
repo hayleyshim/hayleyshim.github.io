@@ -1,7 +1,7 @@
 ---
 title: Android App
 description: Implementation
-image: hospital.png
+image: android.jpg
 date: 2020-05-31
 ---
 
