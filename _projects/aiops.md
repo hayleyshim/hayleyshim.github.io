@@ -1,5 +1,5 @@
 ---
-title: AIOps
+title: AI pipeline
 description: Implementation
 image: aipipeline.png
 date: 2021-05-24
