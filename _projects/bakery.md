@@ -1,6 +1,6 @@
 ---
 title: BakeryTycoon
-description: Implementation
+description: 언젠간 자동화된 Bakery를 운영하며 그 시간을 다른 일에 더 집중할 수 있으면 어떨까?
 image: backery.jpg
 date: 2019-04-17
 ---
