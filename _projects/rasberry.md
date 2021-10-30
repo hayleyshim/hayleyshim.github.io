@@ -1,5 +1,5 @@
 ---
-title: Raspberry-pi cluster
+title: Raspberry-pi 
 description: Implementation
 image: demo.jpg
 date: 2021-10-30
