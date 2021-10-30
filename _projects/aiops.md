@@ -1,6 +1,6 @@
 ---
 title: AI pipeline
-description: Implementation
+description: 나의 커리어와 관심사를 어떻게 실제 서비스와 관련지을 수 있을까
 image: aipipeline.png
 date: 2020-05-24
 ---
