@@ -8,7 +8,7 @@ date: 2019-04-17
 
 <a href="https://github.com/hayleyshim/BakeryTycoon">Bakery 경영시뮬레이션 게임
 
-<p>Idea
+<font size="2em" color="purple">Idea
 <p>저는 <b>디저트</b>를 좋아합니다
 <p>맛있는 빵집이나 디저트집을 찾아다니고 취미로 직접 베이킹도 배워보았죠
 <p>그런데 문득, 점점 나이가 들수록 다른 집중해야할 중요한 일이 많아지며
