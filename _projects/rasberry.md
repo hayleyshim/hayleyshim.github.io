@@ -2,9 +2,9 @@
 title: Raspberry-pi cluster
 description: Implementation
 image: demo.jpg
-date: 2021-11-01
+date: 2021-10-30
 ---
 
-Raspberry-pi cluster
+Raspberry-pi 장난감으로 이것저것 재밌는걸 시작해보려합니다:)
 
 
