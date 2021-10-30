@@ -1,6 +1,6 @@
 ---
 title:  "Wireguard"
-tags: [demo]
+tags: [nw]
 author: hayley
 ---
 

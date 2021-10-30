@@ -1,6 +1,6 @@
 ---
 title:  "Segmentation"
-tags: [demo]
+tags: [nw]
 author: hayley
 ---
 

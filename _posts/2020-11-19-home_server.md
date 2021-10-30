@@ -1,6 +1,6 @@
 ---
 title:  "DDNS Service"
-tags: [demo]
+tags: [nw]
 author: hayley
 ---
 

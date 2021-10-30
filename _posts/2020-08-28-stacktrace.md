@@ -1,6 +1,6 @@
 ---
 title:  "Stack Trace"
-tags: [demo]
+tags: [linux]
 author: hayley
 ---
 
