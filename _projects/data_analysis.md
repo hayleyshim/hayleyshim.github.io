@@ -7,7 +7,6 @@ date: 2019-08-30
 
 <a href="https://github.com/hayleyshim/data_analysis">Data pre-processing & modelling
 
-<font size="3" color="purple">
 
 <font size="3" color="purple">
 한창 Android App 개발을 하던 찰나에 인터넷 상의 필요한 정보를 가져오려고보니
