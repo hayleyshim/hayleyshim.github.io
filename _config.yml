@@ -5,7 +5,7 @@ description: >-
 url: github.com/hayleyshim
 github: hayleyshim
 email: yhshim17@gmail.com
-google_analytics: <YOUR UA TOKEN>
+google_analytics: G-1KSR3STMG1
 
 exclude: [README.md, Gemfile, Gemfile.lock]
 
