@@ -25,13 +25,19 @@ author: hayley
     <p>  1. 네트워크 상 노드 간에 swarm network를 만듭니다
     <p>  2. 상단에 overlay network를 생성하면 swarm 노드가 자동으로 서로를 검색합니다.
     <p>     이때, 모든 Docker 호스트 노드가 서로 액세스할 수 있고 방화벽에서 터널링 포트(TCP 2377, TCP/UDP 7946, UDP 4789)가 열려있는지 확인합니다.
-    <p>
-    <p>    
+    <br><br>
+    <p>Home NW를 Overlay NW로 구성하기 위한 Idea
+    <p>1. Raspberry Pi Cluster 세팅
+    <p>2. Cluster 내 swarm network 생성
+    <p>3. Swarm 노드가 자동으로 서로 검색
+    <p>4. 터널링 포트 확인
+    <br><br>
       <p>[Reference]
       <p><a href="https://archived.informaticslab.co.uk/infrastructure/2015/12/09/raspberry-pi-docker-cluster.html"> A Raspberry Pi Docker Cluster
       <p><a href="https://medium.com/@tukai.anirban/container-networking-overlay-networks-b712d6ddfb67">Container Netowkring: Overlay Networks  
       <p><a href="https://medium.com/@tukai.anirban/docker-on-raspberry-pi-getting-started-c7b403205ecf">Docker on Raspberry Pi: Getting started
       <p><a href="https://kubernetes.io/ko/docs/concepts/cluster-administration/networking/">Cluster Networking
+      <p><a href="https://www.youtube.com/watch?v=xNndbfxMCLo">Setting up the Cluster
           
     
 
