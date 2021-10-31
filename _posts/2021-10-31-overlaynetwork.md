@@ -3,7 +3,6 @@ title: Home NW를 Overlay NW로 구성하기
 tags: [nw]
 author: hayley
 ---
-<!doctype html>
 <html>
     <body>
     <font size="3" color="purple"><p><b>Overlay Network란?</b>
@@ -32,10 +31,9 @@ author: hayley
       <p><a href="https://archived.informaticslab.co.uk/infrastructure/2015/12/09/raspberry-pi-docker-cluster.html"> A Raspberry Pi Docker Cluster
       <p><a href="https://medium.com/@tukai.anirban/container-networking-overlay-networks-b712d6ddfb67">Container Netowkring: Overlay Networks  
       <p><a href="https://medium.com/@tukai.anirban/docker-on-raspberry-pi-getting-started-c7b403205ecf">Docker on Raspberry Pi: Getting started
-      <p><a href="https://kubernetes.io/ko/docs/concepts/cluster-administration/networking/">Cluster Networking</p>
+      <p><a href="https://kubernetes.io/ko/docs/concepts/cluster-administration/networking/">Cluster Networking
           
-          </body>    
-</html>        
+    
 
 
 
