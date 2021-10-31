@@ -11,7 +11,7 @@ author: hayley
     <p class="aligncenter">
       <img src="https://flylib.com/books/2/959/1/html/2/images/mir16f11.jpg">
     </p>  
-    <center><ref.Computer and Communication Networks,2007</center>
+    <center>ref) Computer and Communication Networks,2007</center>
     
       
     도커 컨테이너에서 호스트들 각각에 있는 컨테이너 네트워크를 오버레이 네트워크로 연결합니다.
