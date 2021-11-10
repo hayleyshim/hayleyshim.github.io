@@ -6,8 +6,8 @@ author: hayley
 <html>
     <body>
         <font size="5" color="purple">
-        <p><b>[NFT]1.NFT가 Infra 시장에 가져올 변화</b></font>
-        <font size="3" color="purple"><p>요즘 NFT가 대세긴 대세다.
+        <p><b>[NFT]1.NFT가 Infra 시장에 가져올 변화</b>
+        <font size="3" color="black"><p>요즘 NFT가 대세긴 대세다.
         <p>올 상반기에는 몇 년 만에 다시 블록체인 가치가 크게 오르면서 토큰 시장이 뜨거웠는데
         <p>하반기부터 NFT가 주목받고 있다. 물론 관련 분야 종사자들에게는 이미 오래전부터 이슈였다.   
         <p>나도 처음 NFT를 접한 것은 IT 지식이 많은 한 지인을 통해서 였다.
@@ -67,8 +67,8 @@ author: hayley
         <p>이런 궁금증에서 조금 더 나아가 앞으로 NFT 기술이 Infra 시장에 가져올 변화를 탐구해보며 앞으로 크게 세 가지 주제로 글을 써보려 한다.
         <p><b>  1. NFT Storage 서비스
         <p><b>  2. NFT Storage 서비스 적용 기술
-        <p><b>  3. NFT Storage 비지니스 가치
-        <p>
+        <p><b>  3. NFT Storage 비지니스 가치</b>
+            <p>
         <p>개인적인 관심으로 시작해보는 짧은 기술 블로그이기 때문에 관심 있을 때마다 조금씩 업데이트해보며 재밌게 알아봐야겠다:)
 
           <p>[Reference]
