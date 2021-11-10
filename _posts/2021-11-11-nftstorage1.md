@@ -69,9 +69,9 @@ author: hayley
         <font size="5" color="purple">
         <p><b>  1. NFT Storage 서비스
         <p><b>  2. NFT Storage 서비스 적용 기술
-        <p><b>  3. NFT Storage 비지니스 가치</b></font>
+        <p><b>  3. NFT Storage 비지니스 가치</b>
         <p>
-        <p>개인적인 관심으로 시작해보는 짧은 기술 블로그이기 때문에 관심 있을 때마다 조금씩 업데이트해보며 재밌게 알아봐야겠다:)
+        <p> <font size="4" color="black"><b>개인적인 관심</b>으로 시작해보는 짧은 기술 블로그이기 때문에 관심 있을 때마다 조금씩 업데이트해보며 재밌게 알아봐야겠다:)
 
           <p>[Reference]
           <p><a href="https://spri.kr/posts/view/23297?code=industry_trend"> 'NFT, 디지털 세상의 원본을 증명하다', 소프트웨어정책연구소 
