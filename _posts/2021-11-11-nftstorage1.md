@@ -26,7 +26,7 @@ author: hayley
         <p>NFT가 다른 기술들과 접목되어 이 세상의 기반을 바꿀 수 있는 대단한 기술이라는데 
         <p>'대체 그게 뭐길래?' 라는 궁금증에서 NFT에 대해 이것저것 리서치해봤다.
             <p>NFT(Non Fungible Token) 말 그대로 <b>'대체 불가능한 토큰'</b>이다.
-            <p>일반적인 <b>대체가능한 토큰(Fungible Token)</b>인 블록체인, De-Fi와는 다르다.
+            <p>일반적인 <b>대체가능한 토큰(Fungible Token)</b>인 <a href="https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8">블록체인</a>, <a href="http://wiki.hash.kr/index.php/%EB%94%94%ED%8C%8C%EC%9D%B4">De-Fi</a>와는 다르다.
         <p>
             <p>대체가능한 토큰은 서로 같은 가치를 지니기 때문에 <b>교환이 가능</b>하다. 
         <p>블록체인의 경우에도 코인의 경우 서로 같은 가치를 지니기 때문에 서로 교환이 가능하고
