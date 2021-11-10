@@ -7,8 +7,9 @@ author: hayley
     <body>
         <font size="5" color="purple">
         <div><b>AI in telecom: M&A focus areas | Netscribes (2019/06/19)</b>
-        
+        <p>
         <font size="4" color="black">
+        <p><b>느낀점</b>      
         <p>통신 분야에서 현재 cloud, 5G를 위한 수요는 알았지만 향후 통신 분야에서 AI가 적용되었을 때 임베디드 시스템을 위한 AI 칩셋과 Reinforcement Learning 기술에 대한 필요성이 있다는 것이 흥미로웠다. 
         <p>AI 분야를 공부하며 삼성에서 개발한 'nnstreamer' 라는 오픈 소스를 적용한 하나의 파이프라인을 구성하는 연구 과정에서 경량화를 위한 AI 칩셋이 필요하다 생각했는데 통신 분야 AP칩에서도 이에 대한 준비가 필요함을 다시 한번 되새길 수 있었다. 
         <p>또한, 통신 분야는 기반 사업이기 때문에 AIOps(MLOps)와 같은 인프라 전반에 적용될 수 있는 기술이나 자동화 기술이 중요하다 생각했는데 이미 화웨이 등 다수 회사가 RL을 적용하고 있어 self driving network를 위해 RL과 같이 agent가 자가 학습을 할 수 있는 기술이 중요하단 것을 깨닳았다. 기회가 되면 AIOps 뿐만 아니라 RL을 학습할 수 있도록 시간을 내봐야겠다.
