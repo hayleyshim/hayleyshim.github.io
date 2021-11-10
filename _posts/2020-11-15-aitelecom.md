@@ -7,6 +7,7 @@ author: hayley
     <body>
         <font size="5" color="purple">
         <div><b>AI in telecom: M&A focus areas | Netscribes (2019/06/19)</b>
+        <p>요약    
         <font size="4" color="black">
         <p>'통신 분야에서의 AI는 네트워크 구축, 계획, 운영관리 등과 관련된 이 분야의 challenges를 해결함으로써 legacy telecom system에 변화를 가져올 것이다. 
         <p>AI를 통해 통신 분야에서 주요 관심사인, CAPEX & OPEX 부분에 상당한 감소가 있을 전망이다.
@@ -22,7 +23,6 @@ author: hayley
         <p>Ciena는 adaptive self-driving network를, Huawei는 reinforcement learning-based database를, Rakuten은 greenfield approach를, 
         <p>China Telecom은 CTNet을 도입했다. 이는 주요 통신사들이 세계적으로 미래의 automonous self-healing network로 연결되고 있음을 보여준다.
         <p>  
-
         <p>M&A 트렌드를 살펴보면,
         <p>
         <p>2018년에는 다른 분야에서 많은 인수합병이 있었고 2019년 초에는 보안과 클라우드와 관련된 기업 간에 인수합병이 이뤄졌다. 
@@ -36,7 +36,6 @@ author: hayley
         <p>Kumu Networks와 GeXcomm은 full-deplex 통신을 위한 self-interference cancellation 기술로 통신 시장에 혼란을 가져왔다. 
         <p>Cabricon의 AI 칩셋과 비교하여, Pivotal Commware과 Metawave는 5G 생태계를 위한 metamaterial beamforming 기술을 사용한 접근을 하고 있다.
         <p>
- 
         <p>Netscribe 분석에 따르면, self-driving network 목표를 실현하기 위해, 통신 생태계의 MNO, CSP와 다른 참가자들은 reinforcement learning, 
         <p>cloud native architecture, AI hardware에 투자를 고려해야만 한다. 이는 다음 세대 automonous network를 위한 강력한 R&D 로드맵을 형성할 것이다. 
         <p>또한, 다른 분야(반도체, IT, 스타트업, 투자자)의 회사들 또한 AI 통신 시장에 포함될 수 있는 새로운 수익원을 만들 수 있다.'   
@@ -45,9 +44,7 @@ author: hayley
         <p>AI 분야를 공부하며 삼성에서 개발한 'nnstreamer' 라는 오픈 소스를 적용한 하나의 파이프라인을 구성하는 연구 과정에서 경량화를 위한 AI 칩셋이 필요하다 생각했는데 통신 분야 AP칩에서도 이에 대한 준비가 필요함을 다시 한번 되새길 수 있었다. 
         <p>또한, 통신 분야는 기반 사업이기 때문에 AIOps(MLOps)와 같은 인프라 전반에 적용될 수 있는 기술이나 자동화 기술이 중요하다 생각했는데 이미 화웨이 등 다수 회사가 RL을 적용하고 있어 self driving network를 위해 RL과 같이 agent가 자가 학습을 할 수 있는 기술이 중요하단 것을 깨닳았다. 기회가 되면 AIOps 뿐만 아니라 RL을 학습할 수 있도록 시간을 내봐야겠다.
         <p>앞으로 통신 사업에서 5G, Cloud, AI 간의 협업이 어떻게 이뤄지는지 지속적인 관심을 가지고 지켜봐야겠다.
-
         <p>
-
         <p>2020년 한해가 가기 전 여유로운 주말 오후,
         <p>
         <p>Market Research Report, 'AI in Telecommunication'(Nescribes, 2019/06/19)를 읽고 짧은 요약 및 생각 정리 끝:)
