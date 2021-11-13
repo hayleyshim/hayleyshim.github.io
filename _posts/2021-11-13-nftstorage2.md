@@ -18,15 +18,15 @@ author: hayley
         <p>저장용량 및 고비용 등의 이유로 후자가 대다수를 차지하는 현실이라 외부로부터 원본 훼손 위험이 존재한다.' - NFT, 디지털 자산시장의 진화, KDB미래전략연구소(2021.8.30)
         <p>
         <p>원본 파일의 훼손, 무단 복제 등의 문제점들을 해결하기 위해 NFT 가상 자산을 안전한 장소에 저장하는 NFT Storage 서비스가 필요할 것이다.
-        <p>  
+        <br>  
         <p><b>기존 NFT Storage 서비스는 어떤 것이 있나</b>
-        <p>
+        <br>
         <p><font size="4" color="purple"><b><a href="https://nft.storage/">NFT Storage</b>
         <p><font size="4" color="black">- NFT Storage는 사용자가 NFT 콘텐츠와 메타데이터를 원활하고 안전하게 저장할 수 있도록 한다.
         <p>- 데이터는 IPFS, Filecoin 상에 분산화된 형태로 저장되고 Smart Contract에서 사용되는 콘텐트 주소 기반 IPFS URI를 사용하여 참조된다. 
-         <p>
+        <br>
         <p>다음 편에서는 위에 언급한 NFT Storage에 적용된 기술인 콘텐트 주소 지정, IPFS, Filecoin 에 대해 자세히 알아보자.
-         <p><p> 
+         <br><br>
           <p> <font size="4" color="purple">[Reference]
           <p><a href="https://nft.storage/">NFT Storage 
      
