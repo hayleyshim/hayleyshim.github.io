@@ -7,7 +7,7 @@ author: hayley
     <head>
         <body>
         <font size="4" color="purple" >
-        <div>1편 <b>'NFT가 Infra 시장에 가져올 변화'</b>에 이어 <b>NFT 시대를 위한 Infra 서비스</b>를 알아보자.
+        <div>1편 <b><a href="https://hayleyshim.github.io/blog/nftstorage2">'NFT가 Infra 시장에 가져올 변화'</b>에 이어 <b>NFT 시대를 위한 Infra 서비스</b>를 알아보자.
         <font size="4" color="black">
         <p>현재 가상 자산으로 각광받고 있는 NFT에 대해 다양한 문제가 제기되고 있다.
         <br><br>
