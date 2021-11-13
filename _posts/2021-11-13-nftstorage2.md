@@ -6,7 +6,7 @@ author: hayley
 <html>
     <body>
         <font size="4" color="purple">
-        <div><b>1편 <b>'NFT가 Infra 시장에 가져올 변화'</b>에 이어 NFT 시대를 위한 Infra 서비스를 알아보자.
+        <div>1편 <b>'NFT가 Infra 시장에 가져올 변화'</b>에 이어 NFT 시대를 위한 Infra 서비스를 알아보자.
         <font size="4" color="black">
         <p>현재 가상 자산으로 각광받고 있는 NFT에 대해 다양한 문제가 제기되고 있다.
         <p>
@@ -21,7 +21,7 @@ author: hayley
         <br>  
         <p><b>기존 NFT Storage 서비스는 어떤 것이 있나</b>
         <br>
-        <p><font size="4" color="purple"><b><a href="https://nft.storage/">NFT Storage</b>
+        <p><font size="4" color="purple"><a href="https://nft.storage/"><b>NFT Storage</b>
         <p><font size="4" color="black">- NFT Storage는 사용자가 NFT 콘텐츠와 메타데이터를 원활하고 안전하게 저장할 수 있도록 한다.
         <p>- 데이터는 IPFS, Filecoin 상에 분산화된 형태로 저장되고 Smart Contract에서 사용되는 콘텐트 주소 기반 IPFS URI를 사용하여 참조된다. 
         <br>
