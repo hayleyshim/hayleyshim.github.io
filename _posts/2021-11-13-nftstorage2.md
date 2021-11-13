@@ -30,7 +30,7 @@ author: hayley
         <p>
         <p>다음 편에서는 위에 언급한 NFT Storage에 적용된 기술인 콘텐트 주소 지정, IPFS, Filecoin 에 대해 자세히 알아보자.
          <br>
-         <font size="4" color="purple">[Reference]
+         <font size="5" color="purple">[Reference]
           <p><a href="https://nft.storage/">NFT Storage 
             
           
