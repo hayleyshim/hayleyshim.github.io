@@ -9,9 +9,9 @@ author: hayley
         <font size="4" color="purple" >
         <div>1편 <a href="https://hayleyshim.github.io/blog/nftstorage1">'NFT가 Infra 시장에 가져올 변화'</a>에 이어 <b>NFT 시대를 위한 Infra 서비스</b>를 알아보자.
         <font size="4" color="black">
-        
+        <br>
         <p> <font size="5" color="black"><b>기존 NFT Storage 서비스는 어떤 것이 있나</b>
-        <br><a href="https://nft.storage/"><img src="https://nft.storage/images/logo-nft.storage.svg" align="center"></a>
+        <br><br><a href="https://nft.storage/"><img src="https://nft.storage/images/logo-nft.storage.svg" align="center"></a>
         <p><span style="display: inline-block; width: 98%; text-align: center;"><b>NFT Storage</b>
         <font size="5" color="black">
         <p>- NFT Storage는 사용자가 NFT 콘텐트와 메타데이터를 원활하고 안전하게 저장할 수 있도록 한다.
