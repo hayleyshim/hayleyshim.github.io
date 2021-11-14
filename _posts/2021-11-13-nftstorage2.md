@@ -12,7 +12,7 @@ author: hayley
         <br>
         <p> <font size="5" color="black"><b>기존 NFT Storage 서비스는 어떤 것이 있나</b>
         <br><br><a href="https://nft.storage/"><img src="https://nft.storage/images/logo-nft.storage.svg" style="width: 70%; height: 70%;" align="center"></a>
-        <p><span style="display: inline-block; width: 98%; text-align: center;"> <b><NFT Storage></b>
+        <p><span style="display: inline-block; width: 98%; text-align: center;"> <b> <NFT Storage> </b>
         <font size="5" color="black">
         <p>- NFT Storage는 사용자가 NFT 콘텐트와 메타데이터를 원활하고 안전하게 저장할 수 있도록 한다.
         <p>- 데이터는 <b>IPFS, Filecoin</b> 상에 분산화된 형태로 저장되고 Smart Contract에서 사용되는 콘텐트 주소 기반 <b>IPFS URI</b>를 사용하여 참조된다. 
