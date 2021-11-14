@@ -31,7 +31,7 @@ author: hayley
 	<p> 실제 NFT 플랫폼에서 거래되고 있는 NFT를 살펴보자.
 	<p><img src="https://github.com/hayleyshim/hayleyshim.github.io/blob/master/assets/images/nft_example.png?raw=true" align="center">
 	<p>위와 같이 NFT URL 값이 노출되었고 해당 URL을 입력하면 누구나 쉽게 접근할 수 있다.
-	<p>NFT 자산에 대해 무단 복제가 쉽게 발생될 수 있으나 현재 일반서버나 IPFS 등 블록체인 밖에 저장하는 On-chain 방식은 원본에 대한 훼손 및 무단 복제의 위험이 있기 
+		<p>살펴본 것과 같이 현재 일반서버나 IPFS 등 블록체인 밖에 저장하는 On-chain 방식은 NFT 원본에 대한 <b>훼손 및 무단 복제의 위험</b>이 있기 
                때문에 향후에 이를 보완할 NFT Storage service가 필요한 시점이다. 
                 
         <p><font size="5">다음 편에서는 위에 언급한 NFT Storage에 적용된 기술인<font color="purple"> <b>콘텐트 주소 지정, IPFS, Filecoin</b></font> 에 대해 자세히 알아보자.</font>
