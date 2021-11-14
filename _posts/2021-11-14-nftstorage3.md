@@ -22,7 +22,7 @@ author: hayley
         <p> <font size="4" color="black">NFT Storage 서비스에 적용된 기술을 알아보자
         <p>  
         <p><b>1. Content Addressing</b>
-        <p>-  NFT Storage의 콘텐트 주소 지정(Content Addressing) 개념을 알고 개인적으로 흥미로웠다. 대학원 때 연구 주제로 삼았던 정보 중심 네트워크(Information Centric Network)의 IP기반이 아닌 주소 기반 통신 체계를 연상하게 하는 개념이었기 때문이다. 이미 IPFS github에 이 둘의 상관 관계에 대한 질문이 있었다. 하지만 ICN과 IPFS는 몇 가지 주요 차이점이 있다.(https://github.com/ipfs/notes/issues/375)
+        <p>-  NFT Storage의 콘텐트 주소 지정(Content Addressing) 개념을 알고 개인적으로 흥미로웠다. 대학원 때 연구 주제로 삼았던 정보 중심 네트워크(Information Centric Network)의 IP기반이 아닌 주소 기반 통신 체계를 연상하게 하는 개념이었기 때문이다. 이미 <a href="https://github.com/ipfs/notes/issues/375">IPFS github에 이 둘의 상관 관계에 대한 질문</a>이 있었다. 하지만 ICN과 IPFS는 몇 가지 주요 차이점이 있다.
         <p>
         <p>- ICN과 IPFS의 주요 차이점
         <p><blockquote>  1. ICN/NDN은 종종 링크 계층에 있는 반면 IPFS는 응용 프로그램 계층에 있으며 링크 및 전송 계층에서 사용할 수 있는 모든 것을 활용한다.
