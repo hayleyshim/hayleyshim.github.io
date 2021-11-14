@@ -25,12 +25,12 @@ author: hayley
         <p>-  NFT Storage의 콘텐트 주소 지정(Content Addressing) 개념을 알고 개인적으로 흥미로웠다. 대학원 때 연구 주제로 삼았던 정보 중심 네트워크(Information Centric Network)의 IP기반이 아닌 주소 기반 통신 체계를 연상하게 하는 개념이었기 때문이다. 이미 <a href="https://github.com/ipfs/notes/issues/375">IPFS github에 이 둘의 상관 관계에 대한 질문</a>이 있었다. 하지만 ICN과 IPFS는 몇 가지 주요 차이점이 있다.
         <p>
         <p>- ICN과 IPFS의 주요 차이점
-        <p><pre>  1. ICN/NDN은 종종 링크 계층에 있는 반면 IPFS는 응용 프로그램 계층에 있으며 링크 및 전송 계층에서 사용할 수 있는 모든 것을 활용한다.
-        <p>  2. 암호화 주소 지정은 ICN/NDN 스택의 핵심 원시적이지 않다. ICN/NDN은 전달된 데이터가 요청된 데이터임을 확인할 수 있는 방법이 없다(HTTP와 비슷하다).
-        <p>  3. ICN/NDN은 라우팅 설정 방법을 결정하는 제어 지점에 의존한다.
-        <p>  4. IPFS는 노드 이탈에 매우 탄력적이고 ICN/NDN 네트워크는 링크 계층에 너무 가깝기 때문에 그렇지 않다.
-        <p>  5. IPFS는 안전한 변경 가능한 포인터를 위해 SFS의 자체 인증 명명(SFS)을 사용한다. ICN/NDN은 이를 전파하기 위해 제어 지점에 의존한다.
-        <p>  6. 안타깝게도 ICN/NDN 세계는 공공 및 권한 없는 네트워크에 초점을 맞추지 않았기 때문에 검증 가능성과 신뢰할 수 없는 상호 작용보다는 제어 신뢰가 많은 설계이다.</pre>             
+        <p><blockquote>1. ICN/NDN은 종종 링크 계층에 있는 반면 IPFS는 응용 프로그램 계층에 있으며 링크 및 전송 계층에서 사용할 수 있는 모든 것을 활용한다.</blockquote>
+        <p><blockquote>2. 암호화 주소 지정은 ICN/NDN 스택의 핵심 원시적이지 않다. ICN/NDN은 전달된 데이터가 요청된 데이터임을 확인할 수 있는 방법이 없다(HTTP와 비슷하다).</blockquote>
+        <p><blockquote>3. ICN/NDN은 라우팅 설정 방법을 결정하는 제어 지점에 의존한다.</blockquote>
+        <p><blockquote>4. IPFS는 노드 이탈에 매우 탄력적이고 ICN/NDN 네트워크는 링크 계층에 너무 가깝기 때문에 그렇지 않다.</blockquote>
+        <p><blockquote>5. IPFS는 안전한 변경 가능한 포인터를 위해 SFS의 자체 인증 명명(SFS)을 사용한다. ICN/NDN은 이를 전파하기 위해 제어 지점에 의존한다.</blockquote>
+        <p><blockquote>6. 안타깝게도 ICN/NDN 세계는 공공 및 권한 없는 네트워크에 초점을 맞추지 않았기 때문에 검증 가능성과 신뢰할 수 없는 상호 작용보다는 제어 신뢰가 많은 설계이다.</blockquote>            
         <p>
         <p>- NFT Storage 에서 Content Addressing 개념은 콘텐트 를 찾는 데 사용되는 키가 콘텐트 자체에서 파생되는 정보 시스템에서 데이터를 구성하고 찾는 기술이다. 
         <p>- 예를 들어 다음과 같은 링크를 해결할 때 어떤 일이 발생하는지 보자. "nftschool.dev/concepts/content-addressing" 
