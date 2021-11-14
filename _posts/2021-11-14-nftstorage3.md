@@ -1,5 +1,5 @@
 ---
-title: "[NFT]3.NFT Storage Service "
+title: "[NFT]3.NFT Storage Service 적용 기술"
 tags: [nft]
 author: hayley
 ---
