@@ -13,12 +13,12 @@ author: hayley
         <p>우선, NFT Storage의 작동 방식은 다음과 같다.
         <br><br>
         <p>	
-        <p> 1. 콘텐츠 주소 지정(Content Addressing) : 사용자가 NFT.Storage에 데이터를 업로드하면 CID 라고 하는 콘텐츠의 IPFS 해시를 받는다 . CID는 데이터의 고유한 지문이며 저장 방법과 위치에 관계없이 콘텐츠를 참조하는 데 사용할 수 있는 범용 주소이다. CID는 콘텐츠 자체에서 생성되기 때문에 CID를 사용하여 NFT 데이터를 참조하면 취약한 링크 및 "러그 풀(rug pull)" 과 같은 문제를 방지할 수 있다 .
-        <p> 2. 증명 가능 스토리지(Provable Storage) : NFT.Storage는 장기 분산 데이터 저장을 위해 Filecoin을 사용한다. NFT 데이터를 장기적으로 보존하기 위해 저장 및 검색 거래를 중개한다. Filecoin은 시간이 지남에 따라 NFT 데이터의 내구성과 지속성을 보장하기 위해 암호화 증명을 사용하는 영구 계층을 제공한다.
-        <p> 3. 탄력적인 검색(Resilient Retrieval) : IPFS 및 Filecoin을 통해 저장된 이 데이터는 공용 IPFS 게이트웨이 를 통해 브라우저에서 직접 가져올 수 있다 .
+        <p><b>1. 콘텐츠 주소 지정(Content Addressing)</b> : 사용자가 NFT.Storage에 데이터를 업로드하면 CID 라고 하는 콘텐츠의 IPFS 해시를 받는다 . CID는 데이터의 고유한 지문이며 저장 방법과 위치에 관계없이 콘텐츠를 참조하는 데 사용할 수 있는 범용 주소이다. CID는 콘텐츠 자체에서 생성되기 때문에 CID를 사용하여 NFT 데이터를 참조하면 취약한 링크 및 "러그 풀(rug pull)" 과 같은 문제를 방지할 수 있다 .
+        <p><b>2. 증명 가능 스토리지(Provable Storage)</b> : NFT.Storage는 장기 분산 데이터 저장을 위해 Filecoin을 사용한다. NFT 데이터를 장기적으로 보존하기 위해 저장 및 검색 거래를 중개한다. Filecoin은 시간이 지남에 따라 NFT 데이터의 내구성과 지속성을 보장하기 위해 암호화 증명을 사용하는 영구 계층을 제공한다.
+        <p><b>3. 탄력적인 검색(Resilient Retrieval)</b> : IPFS 및 Filecoin을 통해 저장된 이 데이터는 공용 IPFS 게이트웨이 를 통해 브라우저에서 직접 가져올 수 있다 .
         <p><img src="https://filecoin.io/uploads/screen-shot-2021-04-29-at-1-51-42-pm.png" align="center">  
         <br><br>  
-        <p> <font size="5" color="black"><b>NFT Storage 서비스에 적용될 기술을 알아보자</b>
+        <p> <font size="4" color="black">NFT Storage 서비스에 적용된 기술을 알아보자
         <p>  
         <p><b>1. Content Addressing</b>
         <p>-  NFT Storage의 콘텐트 주소 지정(Content Addressing) 개념을 알고 개인적으로 흥미로웠다. 대학원 때 연구 주제로 삼았던 정보 중심 네트워크(Information Centric Network)의 IP기반이 아닌 주소 기반 통신 체계를 연상하게 하는 개념이었기 때문이다. 이미 IPFS github에 이 둘의 상관 관계에 대한 질문이 있었다. 하지만 ICN과 IPFS는 몇 가지 주요 차이점이 있다.(https://github.com/ipfs/notes/issues/375)
