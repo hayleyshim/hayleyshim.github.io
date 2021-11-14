@@ -26,6 +26,7 @@ author: hayley
         <p>
         <p>NFT가 다른 기술들과 접목되어 이 세상의 기반을 바꿀 수 있는 대단한 기술이라는데 
         <p>'대체 그게 뭐길래?' 라는 궁금증에서 NFT에 대해 이것저것 리서치해봤다.
+        <br><br><br>     
             <p>NFT(Non Fungible Token) 말 그대로 <b>'대체 불가능한 토큰'</b>이다.
             <p>일반적인 <b>대체가능한 토큰(Fungible Token)</b>인 <a href="https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8">블록체인</a>, <a href="http://wiki.hash.kr/index.php/%EB%94%94%ED%8C%8C%EC%9D%B4">De-Fi</a>와는 다르다.
         <p>
@@ -35,7 +36,7 @@ author: hayley
         <p>
             <p>하지만 NFT는 각각의 <b>고유 속성값</b>을 가지고 있어 <b>1:1 교환이 가능하지 않고</b>
             <p>한번 발행하면 타인이 복제하거나 위조할 수 없고 소유권과 거래내역이 명시되는 일명 <b>'디지털 소유 증명서'</b>다.
-        <p>
+        <br><br><br> 
         <p>여기까지가 대체로 일반적으로 많이 알고 있는 개념이다. 
         <p>나 역시 단순하게 개념적으로 이해하고 있는 바는 그렇다.
         <p>
