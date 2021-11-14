@@ -70,7 +70,7 @@ author: hayley
             <p>이런 궁금증에서 조금 더 나아가 앞으로 NFT 기술이 Infra 시장에 가져올 변화를 탐구해보며 앞으로 크게 <b>세 가지 주제</b>로 글을 써보려 한다.
         <font size="5" color="purple">
         <p><b>  <a href="https://hayleyshim.github.io/blog/nftstorage2">1. NFT Storage 서비스</a>
-        <p><b>  <a href="https://hayleyshim.github.io/blog/nftstorage2">2. NFT Storage 서비스 적용 기술</a>
+        <p><b>  <a href="https://hayleyshim.github.io/blog/nftstorage3">2. NFT Storage 서비스 적용 기술</a>
         <p><b>  3. NFT Storage 비지니스 가치</b>
         <br><br>
         <p> <font size="4" color="black"><b>개인적인 관심</b>으로 시작해보는 짧은 기술 블로그이기 때문에 관심 있을 때마다 조금씩 업데이트해보며 재밌게 알아봐야겠다:)
