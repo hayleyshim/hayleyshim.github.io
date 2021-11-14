@@ -6,15 +6,16 @@ author: hayley
 <html>
     <body>
         <font size="5" color="purple">
-        <div><b>[NFT]1.NFT가 Infra 시장에 가져올 변화</b>
+        <div>
         <font size="4" color="black"><p>요즘 <b><a href="https://ko.wikipedia.org/wiki/%EB%8C%80%EC%B2%B4_%EB%B6%88%EA%B0%80%EB%8A%A5_%ED%86%A0%ED%81%B0">NFT</a></b>가 대세긴 대세다.
+        <br>    
         <p>올 상반기에는 몇 년 만에 다시 블록체인 가치가 크게 오르면서 토큰 시장이 뜨거웠는데
         <p>하반기부터 NFT가 주목받고 있다. 물론 관련 분야 종사자들에게는 이미 오래전부터 이슈였다.   
         <p> 처음 NFT를 접한 것은 IT 지식이 많은 한 지인을 통해서 였다.
         <p>오랜만에 만난 지인은 본인이 재미 삼아 참여하고 있는 NFT 프로젝트인
             <p><b><a href="https://opensea.io/">OPEN SEA</a>, <a href="https://maintenance.nbatopshot.com/">NBA TOPSHOT</a></b> 등 몇 가지를 소개해줬는데 처음 들었을 때 내 반응은 한마디로 이거였다.
         <br><br>
-        <p>'왜 그런데 돈을 써요. 그게 무슨 가치가 있어요?!?!?!?!' 
+        <p><b>'왜 그런데 돈을 써요. 그게 무슨 가치가 있어요?!?!?!?!'</b> 
         <p>
         <p>나의 이런 반응에 지인은 '이 세상은 머리로 이해하려고 하면 안 돼요' 딱 이렇게 대답해줬다.
         <p>
