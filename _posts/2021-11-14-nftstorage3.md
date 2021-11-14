@@ -58,7 +58,8 @@ author: hayley
         <p>- Filecoin의 <a href="https://filecoin.io/blog/posts/what-sets-us-apart-filecoin-s-proof-system/">증명 알고리즘</a>이 이를 처리한다. Proof-of-Replication 은 주어진 스토리지 제공자가 클라이언트의 원본 데이터의 물리적으로 고유한 복사본을 저장하고 있음을 증명하는 반면, Proof-of-Spacetime 은 클라이언트의 데이터가 시간이 지남에 따라 지속적으로 저장된다는 것을 증명한다.
         <p>- 이 증명 시스템 외에도 Filecoin 네트워크는 게임 이론적인 인센티브에 의존하여 악의적이거나 부주의한 활동을 억제한다. 모든 Filecoin 저장소 제공자는 제공자가 되기로 동의할 때 Filecoin 토큰(FIL)의 형태로 담보를 제공해야 한다. 시공간 증명(Proof-of-Spacetime) 검사에 실패한 스토리지 제공자는 처벌을 받고 담보물의 일부를 잃게 되며 결국 다시 고객에게 스토리지를 제공할 수 없게 된다. Filecoin 네트워크는 지속적으로 성장하여 콘텐츠 지속성, 콘텐츠 주소 지정 스토리지에 대한 용량이 빠르게 증가하고 있다. 
         <p>
-        <p>다음 편에서는 NFT Storage Service가 가져올 <b>비지니스 가치</b>에 대해 알아보자.
+        <br>  
+        <p>다음 편에서는 NFT Storage Service가 가져올 <font color="purple">   <b>비지니스 가치</b></font>에 대해 알아보자.
         <br>
         <br> <font size="5" color="purple"><b>[Reference]
         <p><a href="https://nft.storage/">NFT Storage 
