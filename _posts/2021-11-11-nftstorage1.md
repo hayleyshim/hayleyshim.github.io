@@ -12,14 +12,14 @@ author: hayley
         <p>하반기부터 NFT가 주목받고 있다. 물론 관련 분야 종사자들에게는 이미 오래전부터 이슈였다.   
         <p> 처음 NFT를 접한 것은 IT 지식이 많은 한 지인을 통해서 였다.
         <p>오랜만에 만난 지인은 본인이 재미 삼아 참여하고 있는 NFT 프로젝트인
-            <p><b><a href="https://opensea.io/">OPEN SEA</a>, <a href="https://maintenance.nbatopshot.com/">NBA TOPSHOT</a></b> 등 몇 가지를 소개해줬는데 처음 들었을 때 내 반응은 딱 이거였다.
-        <p>
+            <p><b><a href="https://opensea.io/">OPEN SEA</a>, <a href="https://maintenance.nbatopshot.com/">NBA TOPSHOT</a></b> 등 몇 가지를 소개해줬는데 처음 들었을 때 내 반응은 한마디로 이거였다.
+        <br><br>
         <p>'왜 그런데 돈을 써요. 그게 무슨 가치가 있어요?!?!?!?!' 
         <p>
         <p>나의 이런 반응에 지인은 '이 세상은 머리로 이해하려고 하면 안 돼요' 딱 이렇게 대답해줬다.
         <p>
         <p>'머리로 이해할 수 없는 세상이라...? 뭐지 내가 모르는 동안 이 세상이 어떻게 돌아가는 거지...?'
-        <p>
+        <br><br>
         <p>그로부터 반년이 훌쩍 지나고 여러 매체를 통해 
         <p>이제는 나도 그 어느 때보다 NFT에 대한 세상의 관심이 커졌다고 확신한다.
         <p>
@@ -45,7 +45,7 @@ author: hayley
         <p>
         <p>‘내가 이해할 수 없는 세상을 받아들이는 것, 빨리 적응하고 또 기술을 익혀 경쟁력을 가져야한다’는 사실이 
         <p> 어찌 보면 새로운 기술을 탐구하는 IT 분야 종사자의 숙명이지만 ‘과연 '잘', '오래' 할 수 있을까’란 걱정이 없는 것도 아니다.  
-        <p>
+        <br><br>
         <p>개인적으로 다양한 프로젝트 및 스터디를 진행하며 Public Cloud를 사용할 기회가 종종 있었다.
         <p>작년 코로나 이후 이미 많은 회사들의 Infra가 On-Prem에서 Cloud로 Migration되는 추세이고
         <p>이미 Cloud로 Migration을 완료한 곳에서도 보안, 장애 등을 고려하여 Hybrid, Multi Cloud를 준비/계획하고 있다.
@@ -57,7 +57,7 @@ author: hayley
         <p>아마 그 두 가지인 모두일 것이다.
         <p>'대체할 수 없는' 디지털 상의 그 어떤 것을 나만이 '소유'한다는 것이 공식화되어 인정받을 때
         <p>지금도 그 가치가 상상을 초월하는 금액으로 거래가 되고 있기 때문에 다들 이렇게 난리라고 생각한다.  
-         <p>
+        <br><br>
         <p>하지만 지금 이 광란의 시장에서 사람들이 놓치고 있는 것이 있지 않을까
         <p>
             <p>일반적으로 얘기하는 디지털 자산인 이미지, 텍스트, 음원, 영상 등 다양한 자료들은 어딘가에 <b>저장</b>된다.
@@ -70,9 +70,9 @@ author: hayley
         <p><b>  1. NFT Storage 서비스
         <p><b>  2. NFT Storage 서비스 적용 기술
         <p><b>  3. NFT Storage 비지니스 가치</b>
-        <p>
+        <br><br>
         <p> <font size="4" color="black"><b>개인적인 관심</b>으로 시작해보는 짧은 기술 블로그이기 때문에 관심 있을 때마다 조금씩 업데이트해보며 재밌게 알아봐야겠다:)
-
+         <br><br>
           <p> <font size="5" color="purple">[Reference]
           <p><a href="https://spri.kr/posts/view/23297?code=industry_trend"> 'NFT, 디지털 세상의 원본을 증명하다', 소프트웨어정책연구소 
      
