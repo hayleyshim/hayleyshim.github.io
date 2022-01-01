@@ -1,7 +1,7 @@
 ---
 title: Communication
 description: 어디서든 좀 더 자유롭게 communication 할 수 있는 공간을 만들어보자
-image: hground.PNG
+image: hground2.PNG
 date: 2019-09-22
 ---
 
