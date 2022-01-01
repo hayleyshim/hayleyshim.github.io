@@ -9,6 +9,8 @@ date: 2020-05-24
 
 
 <font size="3" color="purple">
+<p><img src="https://github.com/hayleyshim/hayleyshim.github.io/blob/master/assets/images/projects/nnstreamer2.PNG?raw=true">  
+<p><img src="https://github.com/hayleyshim/hayleyshim.github.io/blob/master/assets/images/projects/nnstreamer3.PNG?raw=true">  
 <p>Proposed Preprocessor
 <p>- 3D to 2D transform : Spherical Projection
 <p>- Filter : Low pass filter
