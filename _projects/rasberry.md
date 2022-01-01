@@ -1,7 +1,7 @@
 ---
 title: Raspberry-pi 
 description: Implementation
-image: demo.jpg
+image: k8s.jpg
 date: 2021-10-30
 ---
 
