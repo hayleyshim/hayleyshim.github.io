@@ -6,6 +6,7 @@ date: 2019-09-22
 ---
 
 <a href="https://github.com/h-ground">디지털 헬스 해커톤 프로젝트
+<p><img src="https://github.com/hayleyshim/hayleyshim.github.io/blob/master/assets/images/projects/hground.PNG?raw=true">  
 <br>구현 사항 : React Chat Module
 
 <font size="3" color="purple">
