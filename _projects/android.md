@@ -1,7 +1,7 @@
 ---
 title: App service
 description: 병원 진료비라는 정보 비대칭성을 대중에게 좀 더 사용자 친화적인 서비스로 제공하면 어떨까
-image: android2.PNG
+image: android2.jpg
 date: 2019-05-31
 ---
 
