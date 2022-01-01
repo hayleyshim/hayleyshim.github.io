@@ -7,6 +7,7 @@ date: 2019-05-31
 
 <a href="https://github.com/hayleyshim/Howmuch">병원 진료비 비교를 위한 Android App
 <font size="3" color="purple">
+<p><img src="https://github.com/hayleyshim/hayleyshim.github.io/blob/master/assets/images/projects/android.PNG?raw=true">  
 개발목표 : 간단하며 사용자 이용 목적에 충실한 어플
 <p>주요기능 : 비급여 진료비 정보, 병원/약국 정보, 건강정보 제공
 <p>벤치마킹 : 굿닥, 똑닥, 착한의사
