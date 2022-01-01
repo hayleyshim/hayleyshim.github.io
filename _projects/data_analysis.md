@@ -1,7 +1,7 @@
 ---
 title: Data Analysis
 description: 인터넷 정보를 가져오다보니 데이터의 가치가 더 궁금해졌어요
-image: data.png
+image: pandas.png
 date: 2019-08-30
 ---
 
