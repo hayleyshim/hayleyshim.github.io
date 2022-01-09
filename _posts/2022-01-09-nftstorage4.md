@@ -16,6 +16,7 @@ author: hayley
 	<p><font size="5" color="black"><b>1. NFT Port</b><a href="https://www.nftport.xyz/"> (https://www.nftport.xyz/)</a></font>
 	<p> <font size="4" color="black"> NFTPort는 NFT용 Stripe이다. 개발자가 몇 달이 아닌 몇 시간 만에 애플리케이션을 출시할 수 있도록 지원하는 원스톱, 단순, 개발자 친화적인 NFT 인프라 및 API 이다. 
   <p>예를 들어, NFTPort 이전 에는 Ethereum 및 Polygon NFT에 대한 AI 기반 시각 및 역 이미지 검색인 " Google for NFTs " 를 구축하는데 몇달이 걸렸지만 API를 사용하면 며칠 밖에 걸리지 않는다.
+  <p><img src="https://miro.medium.com/max/700/1*_kKWmFN3mA6zK4kjbzbypw.png">
   <br>
   <p><font size="5" color="black"><b>2.Hashkey</b><a href="https://www.hashkey.com/nft-infrastructure-the-next-high-ground-to-seize/"> (https://www.hashkey.com/nft-infrastructure-the-next-high-ground-to-seize/)</a></font>
 	<p> <font size="4" color="black">판매 기준 상위 10개 NFT 프로젝트 중 8개가 이더리움에 구축되어있다. 
