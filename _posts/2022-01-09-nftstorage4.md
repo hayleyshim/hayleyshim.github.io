@@ -11,7 +11,7 @@ author: hayley
         <font size="4" color="black">
         <br>
 	<br>	
-        <p><b>기존 NFT Storage 비지니스에는 어떤 것이 있나</b>
+        <p><b>우선 NFT Infra 비지니스에는 어떤 것들이 있나</b>
         <br>
 	<p><font size="5" color="black"><b>1. NFT Port</b><a href="https://www.nftport.xyz/"> (https://www.nftport.xyz/)</a></font>
 	<p> <font size="4" color="black"> NFTPort는 NFT용 Stripe이다. 개발자가 몇 달이 아닌 몇 시간 만에 애플리케이션을 출시할 수 있도록 지원하는 원스톱, 단순, 개발자 친화적인 NFT 인프라 및 API 이다. 
@@ -29,7 +29,7 @@ author: hayley
   <p><font size="4" color="black">STEM은 대체 가능(FT) 및 대체 불가능 토큰(NFT) 기능과의 상호 작용 및 구현을 원활하게 하도록 설계된 스마트 계약 인프라이다
   <br>
   <br>
-<p> 추가 업데이트 예정	  
+<p> 추후 NFT Storage 비지니스 및 가치 업데이트 예정	  
 	
         <br> <font size="5" color="purple"><b>[Reference]
         <p><a href="https://www.hashkey.com/nft-infrastructure-the-next-high-ground-to-seize/">4 Companies Focused on NFTs That Are Potential Goldmines
