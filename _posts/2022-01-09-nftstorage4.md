@@ -10,6 +10,7 @@ author: hayley
         <div>1편 <a href="https://hayleyshim.github.io/blog/nftstorage3">'NFT Storage 적용 기술'</a>에 이어 <b>NFT Storage Business 가치</b>에 대해 알아보자.
         <font size="4" color="black">
         <br>
+	<br>	
         <p> <font size="5" color="black"><b>기존 NFT Storage 비지니스에는 어떤 것이 있나</b>
         <p><b>1. NFT Port</b><a href="https://www.nftport.xyz/">https://www.nftport.xyz/</a>
 	<p> NFTPort는 NFT용 Stripe이다. 개발자가 몇 달이 아닌 몇 시간 만에 애플리케이션을 출시할 수 있도록 지원하는 원스톱, 단순, 개발자 친화적인 NFT 인프라 및 API 이다. 
