@@ -7,14 +7,14 @@ author: hayley
     <head>
         <body>
         <font size="4" color="purple" >
-        <div>1편 <a href="https://hayleyshim.github.io/blog/nftstorage3">'NFT Storage 적용 기술'</a>에 이어 <b>NFT Storage Business 가치</b>에 대해 알아보자.
+        <div>3편 <a href="https://hayleyshim.github.io/blog/nftstorage3">'NFT Storage 적용 기술'</a>에 이어 <b>NFT Storage Business 가치</b>에 대해 알아보자.
         <font size="4" color="black">
         <br>
 	<br>	
         <p><b>우선 NFT Infra 비지니스에는 어떤 것들이 있나</b>
         <br>
 	<p><font size="5" color="black"><b>1. NFT Port</b><a href="https://www.nftport.xyz/"> (https://www.nftport.xyz/)</a></font>
-	<p> <font size="4" color="black"> NFTPort는 NFT용 Stripe이다. 개발자가 몇 달이 아닌 몇 시간 만에 애플리케이션을 출시할 수 있도록 지원하는 원스톱, 단순, 개발자 친화적인 NFT 인프라 및 API 이다. 
+	<p> <font size="4" color="black">- NFTPort는 NFT용 Stripe이다. 개발자가 몇 달이 아닌 몇 시간 만에 애플리케이션을 출시할 수 있도록 지원하는 원스톱, 단순, 개발자 친화적인 NFT 인프라 및 API 이다. 
   <p>예를 들어, NFTPort 이전 에는 Ethereum 및 Polygon NFT에 대한 AI 기반 시각 및 역 이미지 검색인 " Google for NFTs " 를 구축하는데 몇 달이 걸렸지만 API를 사용하면 며칠 밖에 걸리지 않는다.
   <p><img src="https://miro.medium.com/max/700/1*_kKWmFN3mA6zK4kjbzbypw.png">
   <br>
@@ -29,7 +29,10 @@ author: hayley
   <p><font size="4" color="black">STEM은 대체 가능(FT) 및 대체 불가능 토큰(NFT) 기능과의 상호 작용 및 구현을 원활하게 하도록 설계된 스마트 계약 인프라이다
   <br>
   <br>
-<p> 추후 NFT Storage 비지니스 및 가치 업데이트 예정	  
+  <p><font size="4" color="purple" >NFT Infra 에서도 NFT Storage Service 비지니스를 살펴보자.
+  <p><font size="5" color="black"><b>1. NFT STORAGE SOLUTION - LEEWAYHERTZ</b><a href="https://www.leewayhertz.com/nft-storage-solution/"> (https://www.leewayhertz.com/nft-storage-solution/)</a></font>	  
+  <p>- 오프체인 NFT 데이터를 저장하기 위해 특별히 구축된 LEEWAYHERTZ의 NFT 스토리지 시스템은 작성자와 NFT 마켓플레이스 소유자가 IPFS에 분산된 방식으로 데이터를 저장할 수 있도록 도와준다.	  
+	  
 	
         <br> <font size="5" color="purple"><b>[Reference]
         <p><a href="https://www.hashkey.com/nft-infrastructure-the-next-high-ground-to-seize/">4 Companies Focused on NFTs That Are Potential Goldmines
