@@ -32,8 +32,8 @@ author: hayley
   <p><font size="4" color="purple" >NFT Infra 에서도 NFT Storage Service 비지니스를 살펴보자.
   <p><font size="5" color="black"><b>1. NFT STORAGE SOLUTION - LEEWAYHERTZ</b><a href="https://www.leewayhertz.com/nft-storage-solution/"> (https://www.leewayhertz.com/nft-storage-solution/)</a></font>	  
   <p>- 오프체인 NFT 데이터를 저장하기 위해 특별히 구축된 LEEWAYHERTZ의 NFT 스토리지 시스템은 작성자와 NFT 마켓플레이스 소유자가 IPFS에 분산된 방식으로 데이터를 저장할 수 있도록 도와준다.	  
-	  
-	
+ <br>
+ <br>	  
         <br> <font size="5" color="purple"><b>[Reference]
         <p><a href="https://www.hashkey.com/nft-infrastructure-the-next-high-ground-to-seize/">4 Companies Focused on NFTs That Are Potential Goldmines
         <p><a href="NFT Infrastructure Startup Mnemonic Emerges From Stealth With $4 Million In Funding">NFT Infrastructure Startup Mnemonic
