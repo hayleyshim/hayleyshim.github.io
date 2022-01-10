@@ -29,7 +29,7 @@ author: hayley
   <p><font size="4" color="black">STEM은 대체 가능(FT) 및 대체 불가능 토큰(NFT) 기능과의 상호 작용 및 구현을 원활하게 하도록 설계된 스마트 계약 인프라이다
   <br>
   <br>
-  <p><font size="4" color="purple" >NFT Infra 에서도 NFT Storage Service 비지니스를 살펴보자.
+  <p> <font size="4" color="black"><b>NFT Infra 에서도 NFT Storage Service 비지니스를 살펴보자.</b>
   <p><font size="5" color="black"><b>1. NFT STORAGE SOLUTION - LEEWAYHERTZ</b><a href="https://www.leewayhertz.com/nft-storage-solution/"> (https://www.leewayhertz.com/nft-storage-solution/)</a></font>	  
   <p><font size="4" color="black">- 오프체인 NFT 데이터를 저장하기 위해 특별히 구축된 LEEWAYHERTZ의 NFT 스토리지 시스템은 작성자와 NFT 마켓플레이스 소유자가 IPFS에 분산된 방식으로 데이터를 저장할 수 있도록 도와준다.	  
  <br>
