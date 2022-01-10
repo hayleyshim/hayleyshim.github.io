@@ -35,5 +35,5 @@ author: hayley
  <br>
  <br>	  
         <br> <font size="5" color="purple"><b>[Reference]
-        <p><a href="https://www.hashkey.com/nft-infrastructure-the-next-high-ground-to-seize/">4 Companies Focused on NFTs That Are Potential Goldmines
-        <p><a href="NFT Infrastructure Startup Mnemonic Emerges From Stealth With $4 Million In Funding">NFT Infrastructure Startup Mnemonic
+        <p><a href="https://explodingtopics.com/blog/nft-startups">nft-startups
+        <p><a href="https://www.forbes.com/sites/rebeccaszkutak/2021/12/07/nft-infrastructure-startup-mnemonic-emerges-from-stealth-with-4-million-in-funding/?sh=23c361345b48">NFT Infrastructure Startup Mnemonic
