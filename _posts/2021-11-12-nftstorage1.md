@@ -71,7 +71,7 @@ author: hayley
         <font size="5" color="purple">
         <p><b>  <a href="https://hayleyshim.github.io/blog/nftstorage2">1. NFT Storage 서비스</a>
         <p><b>  <a href="https://hayleyshim.github.io/blog/nftstorage3">2. NFT Storage 서비스 적용 기술</a>
-        <p><b>  3. NFT Storage 비지니스 가치</b>
+        <p><b>  <a href="https://hayleyshim.github.io/blog/nftstorage4">3. NFT Storage 비지니스 가치</b>
         <br><br>
         <p> <font size="4" color="black"><b>개인적인 관심</b>으로 시작해보는 짧은 기술 블로그이기 때문에 관심 있을 때마다 조금씩 업데이트해보며 재밌게 알아봐야겠다:)
          <br><br>
