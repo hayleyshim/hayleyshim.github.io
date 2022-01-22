@@ -59,7 +59,7 @@ author: hayley
         <p>- 이 증명 시스템 외에도 Filecoin 네트워크는 게임 이론적인 인센티브에 의존하여 악의적이거나 부주의한 활동을 억제한다. 모든 Filecoin 저장소 제공자는 제공자가 되기로 동의할 때 Filecoin 토큰(FIL)의 형태로 담보를 제공해야 한다. 시공간 증명(Proof-of-Spacetime) 검사에 실패한 스토리지 제공자는 처벌을 받고 담보물의 일부를 잃게 되며 결국 다시 고객에게 스토리지를 제공할 수 없게 된다. Filecoin 네트워크는 지속적으로 성장하여 콘텐트 지속성, 콘텐트 주소 지정 스토리지에 대한 용량이 빠르게 증가하고 있다. 
         <p>
         <br>  
-        <p><font size="5"> 다음 편에서는 NFT Storage Service가 가져올 <font color="purple">   <b><a href="https://hayleyshim.github.io/blog/nftstorage4">비지니스 가치</</b></font>에 대해 알아보자.
+        <p><font size="5"> 다음 편에서는 NFT Storage Service가 가져올<a href="https://hayleyshim.github.io/blog/nftstorage4"><b>비지니스 가치</b></a>에 대해 알아보자.
         <br>
         <br> <font size="5" color="purple"><b>[Reference]
         <p><a href="https://nft.storage/">NFT Storage 
