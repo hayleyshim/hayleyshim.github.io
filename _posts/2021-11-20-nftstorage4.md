@@ -1,5 +1,5 @@
 ---
-title: "[NFT]4.NFT Storage Business 가치"
+title: "[NFT]3.NFT Storage Business 가치"
 tags: [nft]
 author: hayley
 ---
