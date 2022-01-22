@@ -1,5 +1,5 @@
 ---
-title: "[NFT]1.NFT가 Infra 시장에 가져올 변화"
+title: "[NFT]NFT가 Infra 시장에 가져올 변화"
 tags: [nft]
 author: hayley
 ---
