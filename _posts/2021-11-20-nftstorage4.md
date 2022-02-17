@@ -37,3 +37,5 @@ author: hayley
 	<p><a href="https://etfdb.com/crypto-channel/china-looking-to-build-its-own-nft-infrastructure/">China Looking to Build Its Own NFT Infrastructure  
         <p><a href="https://explodingtopics.com/blog/nft-startups">NFT Startup
         <p><a href="https://www.forbes.com/sites/rebeccaszkutak/2021/12/07/nft-infrastructure-startup-mnemonic-emerges-from-stealth-with-4-million-in-funding/?sh=23c361345b48">NFT Infrastructure Startup Mnemonic
+		
+<a href="https://www.buymeacoffee.com/yhshim17" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
