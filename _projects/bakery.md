@@ -16,3 +16,7 @@ date: 2019-04-17
 <p>'베이킹'의 단순한 반복적인 작업을 <b>자동화</b>할 수 있는 프로그래밍을 해보면 어떨까란 생각으로 만들어보았습니다
 <p>간단한 BakeryTycoon이지만 언젠간 자동화된 Bakery를 운영하며 
 <p>그 시간을 다른 일에 더 집중하길 희망하며 만들었어요 :)  
+  
+<a href="https://www.buymeacoffee.com/yhshim17" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+  
+  
