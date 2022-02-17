@@ -31,3 +31,5 @@ date: 2019-05-31
 <p>하지만 <b>UX 관점</b>에서 마음에 들지않아서 사이트에 들어가자마자 얼마 안있다 나왔던 것 같아요
 <p>나처럼 <b>비보험대상 진료비 정보</b>를 찾는 사용자가 많지않을까란 생각과
 <p>좀 더 사용자 친화적인 서비스를 만들어보면 어떨까란 마음에서 시작되었습니다  
+  
+  <a href="https://www.buymeacoffee.com/yhshim17" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
