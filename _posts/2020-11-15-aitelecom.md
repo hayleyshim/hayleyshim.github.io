@@ -49,7 +49,7 @@ author: hayley
         <p>
         <p>Market Research Report, 'AI in Telecommunication'(Nescribes, 2019/06/19)를 읽고 짧은 요약 및 생각 정리 끝:)
 
-
+<a href="https://www.buymeacoffee.com/yhshim17" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
      
      
           
