@@ -14,5 +14,7 @@ date: 2019-08-30
 <p>인터넷 상 정보를 크롤링할 수 있는 기술들을 찾다보니 <b>데이터</b> 자체에 점점 관심이 가더라구요 
 <p>이 데이터들을 가지고 뭔가 의미있는 작업을 더 할 수 있지않을까
 <p>우선 데이터를 다루기 위한 도구를 배워보고자 <b>데이터 분석</b>이란 세계에 입문하게 되었습니다
+  
+<a href="https://www.buymeacoffee.com/yhshim17" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
