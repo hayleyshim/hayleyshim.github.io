@@ -77,6 +77,9 @@ author: hayley
          <br><br>
           <p> <font size="5" color="purple">[Reference]
           <p><a href="https://spri.kr/posts/view/23297?code=industry_trend"> 'NFT, 디지털 세상의 원본을 증명하다', 소프트웨어정책연구소 
+              
+              
+              <a href="https://www.buymeacoffee.com/yhshim17" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
      
           
     
