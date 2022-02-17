@@ -17,3 +17,5 @@ date: 2019-09-22
 <p>'그런 곳은 엄청난 실력자들이나 나가는거 아닌가' 싶었지만 동생들과 <b>좋은 경험</b>이 될 것 같아 신청했습니다
 <p>처음 지원해본 해커톤은 평소 관심 대상인 <b>건강</b>에 관한 헬스케어 해커톤이었는데
 <p>좋은 사람들도 만나고 제가 익숙한 <b>chat</b>기술을 플랫폼에 적용해볼 수 있어서 <b>의미있었던 시간</b>이었습니다
+
+<a href="https://www.buymeacoffee.com/yhshim17" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
